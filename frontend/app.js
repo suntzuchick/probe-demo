@@ -105,20 +105,37 @@
           body: JSON.stringify({ email: email }),
         });
         var data = await res.json();
-        if (data.error) {
+        if (data.status === "not_allowed") {
+          errEl.textContent = "This email isn't on the access list. Contact sera@thingblinglabs.io.";
+          btn.disabled = false;
+          btn.textContent = "Send access link →";
+        } else if (data.link) {
+          document.getElementById("auth-sent-email").textContent = email;
+          document.getElementById("auth-magic-link").value = data.link;
+          document.getElementById("auth-request-section").style.display = "none";
+          document.getElementById("auth-sent-section").style.display = "block";
+        } else if (data.error) {
           errEl.textContent = data.error;
           btn.disabled = false;
           btn.textContent = "Send access link →";
-        } else {
-          document.getElementById("auth-sent-email").textContent = email;
-          document.getElementById("auth-request-section").style.display = "none";
-          document.getElementById("auth-sent-section").style.display = "block";
         }
       } catch (err) {
         errEl.textContent = "Could not reach the server. Try again in a moment.";
         btn.disabled = false;
         btn.textContent = "Send access link →";
       }
+    });
+  }
+
+  var authCopyBtn = document.getElementById("auth-copy-btn");
+  if (authCopyBtn) {
+    authCopyBtn.addEventListener("click", function () {
+      var linkInput = document.getElementById("auth-magic-link");
+      linkInput.select();
+      navigator.clipboard.writeText(linkInput.value).then(function () {
+        authCopyBtn.textContent = "Copied!";
+        setTimeout(function () { authCopyBtn.textContent = "Copy"; }, 2000);
+      });
     });
   }
 

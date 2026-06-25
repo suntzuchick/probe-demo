@@ -83,15 +83,13 @@ def auth_request_link():
     if not _auth.auth_enabled():
         return jsonify({"status": "sent"})  # dev mode — always succeed
 
-    # Always return the same response whether email is on allowlist or not
-    # (prevents allowlist enumeration)
-    if _auth.is_allowed(email):
-        token = _auth.create_magic_token(email)
-        sent  = _auth.send_magic_link(email, token)
-        if not sent:
-            return jsonify({"error": "Could not send the email. Contact sera@thingblinglabs.io."}), 500
+    if not _auth.is_allowed(email):
+        return jsonify({"status": "not_allowed"})
 
-    return jsonify({"status": "sent"})
+    token    = _auth.create_magic_token(email)
+    base_url = os.environ.get("APP_BASE_URL", "").rstrip("/")
+    link     = f"{base_url}/?token={token}"
+    return jsonify({"status": "ok", "link": link})
 
 
 @app.route("/api/auth/verify", methods=["GET"])

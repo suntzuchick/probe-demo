@@ -32,11 +32,13 @@
 
     <div id="auth-sent-section" style="display:none">
       <div class="auth-sent-icon">✓</div>
-      <p class="auth-desc"><strong>Check your inbox.</strong></p>
-      <p class="auth-sub">A link is on its way to <span id="auth-sent-email"></span>.<br>
-         It expires in 15 minutes and can only be used once.<br>
-         Check your spam folder if it doesn't arrive.</p>
-      <button class="btn auth-try-again" id="auth-try-again">Use a different email</button>
+      <p class="auth-desc"><strong>Access link for <span id="auth-sent-email"></span></strong></p>
+      <p class="auth-sub">Copy this link and send it to them. It expires in 15 minutes and can only be used once.</p>
+      <div class="auth-link-row">
+        <input class="auth-link-input" id="auth-magic-link" type="text" readonly>
+        <button class="btn auth-copy-btn" id="auth-copy-btn">Copy</button>
+      </div>
+      <button class="btn auth-try-again" id="auth-try-again">Generate link for a different email</button>
     </div>
 
     <p class="auth-footer">Access is by invitation only. Contact <a href="mailto:sera@thingblinglabs.io">sera@thingblinglabs.io</a> to request access.</p>
