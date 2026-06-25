@@ -2,7 +2,7 @@ services:
   - type: web
     name: probe-demo
     runtime: python
-    buildCommand: pip install -r requirements.txt
+    buildCommand: apt-get install -y tesseract-ocr && pip install -r requirements.txt
     startCommand: cd backend && gunicorn app:app --bind 0.0.0.0:$PORT --timeout 120 --workers 1
     envVars:
       # Set these in the Render dashboard — never commit secrets to the repo
