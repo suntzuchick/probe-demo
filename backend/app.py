@@ -88,7 +88,7 @@ def auth_request_link():
 
     token    = _auth.create_magic_token(email)
     base_url = os.environ.get("APP_BASE_URL", "").rstrip("/")
-    link     = f"{base_url}/?token={token}"
+    link     = f"{base_url}/api/auth/verify?token={token}"
     return jsonify({"status": "ok", "link": link})
 
 
@@ -100,7 +100,7 @@ def auth_verify():
         return (
             "<!DOCTYPE html><html><body style='font-family:Arial,sans-serif;padding:48px;color:#333;max-width:480px;margin:auto'>"
             "<h2 style='color:#4E0C70'>Link expired or already used</h2>"
-            "<p>Magic links expire after 15 minutes and can only be used once.</p>"
+            "<p>Magic links expire after 7 days and can only be used once.</p>"
             "<p><a href='/' style='color:#2289FA'>← Request a new link</a></p>"
             "</body></html>"
         ), 400

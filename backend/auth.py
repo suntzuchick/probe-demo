@@ -25,7 +25,7 @@ _lock = threading.Lock()
 _magic_tokens: dict = {}   # token → {email, created_at, used}
 _sessions:     dict = {}   # token → {email, created_at}
 
-MAGIC_EXPIRY   = 15 * 60        # 15 minutes
+MAGIC_EXPIRY   = 7 * 24 * 3600  # 7 days
 SESSION_EXPIRY = 7 * 24 * 3600  # 7 days
 
 
