@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: probe-demo
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: cd backend && gunicorn app:app --bind 0.0.0.0:$PORT --timeout 120 --workers 1
+    envVars:
+      # Set these in the Render dashboard — never commit secrets to the repo
+      - key: ANTHROPIC_API_KEY
+        sync: false
+
+      # Magic link auth — comma-separated list of allowed email addresses
+      # Leave blank (or don't set) to disable auth entirely in local dev
+      - key: ALLOWED_EMAILS
+        sync: false        # e.g. sera@thingblinglabs.io,guest@revmed.com
+
+      # Set APP_BASE_URL to your Render service URL after first deploy
+      # e.g. https://probe-demo.onrender.com
+      - key: APP_BASE_URL
+        sync: false
+
+      # SMTP credentials for magic link emails
+      # Gmail: create an App Password at myaccount.google.com/apppasswords
+      - key: SMTP_HOST
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: "587"
+      - key: SMTP_USER
+        sync: false        # your Gmail address
+      - key: SMTP_PASSWORD
+        sync: false        # Gmail App Password (not your account password)
+      - key: SMTP_FROM
+        sync: false        # optional: display address, defaults to SMTP_USER

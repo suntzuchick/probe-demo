@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Probe — Notebook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="is-info">
+
+<!-- AUTH OVERLAY — shown when ALLOWED_EMAILS is configured and user is not logged in -->
+<div id="auth-overlay" class="auth-overlay" style="display:none">
+  <div class="auth-card">
+    <div class="auth-brand">
+      <span class="masthead-mark">PROBE</span>
+      <h1 class="auth-title">Scientific data notebook</h1>
+      <p class="auth-subtitle">Extraction · Quality · Derivation · Analysis</p>
+    </div>
+
+    <div id="auth-request-section">
+      <p class="auth-desc">Enter your email address to receive an access link.</p>
+      <form id="auth-form" novalidate>
+        <input class="info-input auth-email-input" type="email" id="auth-email"
+               placeholder="your@institution.edu" autocomplete="email" required>
+        <div class="auth-error" id="auth-error"></div>
+        <button type="submit" class="btn btn-primary auth-submit">Send access link →</button>
+      </form>
+    </div>
+
+    <div id="auth-sent-section" style="display:none">
+      <div class="auth-sent-icon">✓</div>
+      <p class="auth-desc"><strong>Check your inbox.</strong></p>
+      <p class="auth-sub">A link is on its way to <span id="auth-sent-email"></span>.<br>
+         It expires in 15 minutes and can only be used once.<br>
+         Check your spam folder if it doesn't arrive.</p>
+      <button class="btn auth-try-again" id="auth-try-again">Use a different email</button>
+    </div>
+
+    <p class="auth-footer">Access is by invitation only. Contact <a href="mailto:sera@thingblinglabs.io">sera@thingblinglabs.io</a> to request access.</p>
+  </div>
+</div>
+
+<div class="masthead">
+  <div class="masthead-left">
+    <span class="masthead-mark">PROBE</span>
+    <div>
+      <div class="masthead-title">Extraction agent &amp; analysis notebook</div>
+      <div class="masthead-sub">drop data — watch it get read — write real code against it</div>
+    </div>
+  </div>
+  <div class="masthead-right">
+    <span id="masthead-user" class="masthead-user"></span>
+    session: <span id="session-id">—</span>
+    <button id="logout-btn" class="btn-logout" style="display:none">Sign out</button>
+  </div>
+</div>
+
+<div class="shell">
+
+  <nav class="rail" aria-label="Pipeline stages">
+    <div class="rail-label">Stages</div>
+    <div class="rail-stage active" data-stage="1">
+      <div class="rail-dot">1</div>
+      <div class="rail-stage-text">
+        <div class="rail-stage-name">Ingest</div>
+        <div class="rail-stage-meta" id="rail-meta-1">awaiting files</div>
+      </div>
+    </div>
+    <div class="rail-stage" data-stage="2">
+      <div class="rail-dot">2</div>
+      <div class="rail-stage-text">
+        <div class="rail-stage-name">Extraction trace</div>
+        <div class="rail-stage-meta" id="rail-meta-2">—</div>
+      </div>
+    </div>
+    <div class="rail-stage" data-stage="3">
+      <div class="rail-dot">3</div>
+      <div class="rail-stage-text">
+        <div class="rail-stage-name">Data quality</div>
+        <div class="rail-stage-meta" id="rail-meta-3">—</div>
+      </div>
+    </div>
+    <div class="rail-stage" data-stage="4">
+      <div class="rail-dot">4</div>
+      <div class="rail-stage-text">
+        <div class="rail-stage-name">Derivation</div>
+        <div class="rail-stage-meta" id="rail-meta-4">—</div>
+      </div>
+    </div>
+    <div class="rail-stage" data-stage="5">
+      <div class="rail-dot">5</div>
+      <div class="rail-stage-text">
+        <div class="rail-stage-name">Notebook</div>
+        <div class="rail-stage-meta" id="rail-meta-5">—</div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="main">
+
+    <!-- SCREEN 0: INFO GATE -->
+    <section class="screen active" id="screen-0">
+      <div class="info-gate">
+        <div class="info-gate-brand">
+          <span class="masthead-mark">PROBE</span>
+          <h1 class="info-gate-title">Scientific data notebook</h1>
+          <p class="info-gate-sub">Extraction · Quality · Derivation · Analysis</p>
+        </div>
+        <div class="info-gate-card">
+          <h2 class="info-gate-form-title">Tell us about your project</h2>
+          <p class="info-gate-form-desc">This keeps sessions organised and your export properly attributed.</p>
+          <form id="info-form" class="info-form" novalidate>
+            <div class="info-row">
+              <div class="info-field">
+                <label class="info-label" for="info-name">Name <span class="info-req">*</span></label>
+                <input class="info-input" type="text" id="info-name" required autocomplete="name" placeholder="Dr. Jane Smith">
+              </div>
+              <div class="info-field">
+                <label class="info-label" for="info-org">Organization <span class="info-req">*</span></label>
+                <input class="info-input" type="text" id="info-org" required autocomplete="organization" placeholder="Broad Institute">
+              </div>
+            </div>
+            <div class="info-field">
+              <label class="info-label" for="info-email">Email <span class="info-req">*</span></label>
+              <input class="info-input" type="email" id="info-email" required autocomplete="email" placeholder="jane@broad.mit.edu">
+            </div>
+            <div class="info-field">
+              <label class="info-label" for="info-project">What are you analysing? <span class="info-optional">(optional)</span></label>
+              <input class="info-input" type="text" id="info-project" placeholder="e.g. Phase II KRAS inhibitor trial · viability screen · lab panel">
+            </div>
+            <div class="info-error" id="info-error"></div>
+            <button type="submit" class="btn btn-primary info-submit">Get started →</button>
+          </form>
+        </div>
+        <p class="info-gate-footer">Data stays local — nothing leaves your machine except API calls with column names only.</p>
+      </div>
+    </section>
+
+    <!-- SCREEN 1: INGEST -->
+    <section class="screen" id="screen-1">
+      <div class="eyebrow">Stage 1 of 5</div>
+      <h1 class="screen-title">Ingest source files</h1>
+      <p class="screen-desc">Drop CSVs, an Excel workbook, a plate map, a protocol PDF, a photographed plate label, or a metadata file. Probe detects the real format and parses the real content — nothing here is simulated.</p>
+
+      <div class="upload-zone" id="dropzone">
+        <input type="file" id="file-input" multiple style="display:none">
+        <i class="zone-icon">⤓</i>
+        <div class="zone-text">Drop files here, or <button class="zone-browse" id="browse-btn">browse</button></div>
+        <div class="zone-formats">CSV · TSV · XLSX · PDF · PNG/JPEG · JSON</div>
+      </div>
+
+      <button class="btn" id="load-sample-btn"><i class="ti">⚛</i> Load RASolute 302 (simulated) — 5 domains, 200 subjects</button>
+
+      <div class="domain-grid" id="domain-grid">
+        <div class="domain-card" data-domain="DM"><div class="code">DM</div><div class="label">Demographics</div><div class="stat"></div></div>
+        <div class="domain-card" data-domain="EX"><div class="code">EX</div><div class="label">Exposure</div><div class="stat"></div></div>
+        <div class="domain-card" data-domain="AE"><div class="code">AE</div><div class="label">Adverse events</div><div class="stat"></div></div>
+        <div class="domain-card" data-domain="RS"><div class="code">RS</div><div class="label">Tumor response</div><div class="stat"></div></div>
+        <div class="domain-card" data-domain="DS"><div class="code">DS</div><div class="label">Disposition</div><div class="stat"></div></div>
+      </div>
+
+      <div class="nav-row">
+        <button class="btn btn-primary" id="btn-to-trace" disabled>View extraction trace <i class="ti">→</i></button>
+      </div>
+    </section>
+
+    <!-- SCREEN 2: EXTRACTION TERMINAL -->
+    <section class="screen" id="screen-2">
+      <div class="eyebrow">Stage 2 of 5</div>
+      <h1 class="screen-title">Extraction agent trace</h1>
+      <p class="screen-desc">A live, line-by-line account of what the agent actually did to each file: format detection, layout classification, and a real confidence score for every column-to-variable mapping it considered.</p>
+
+      <div class="terminal" id="terminal"></div>
+
+      <div class="nav-row">
+        <button class="btn" id="btn-back-1"><i class="ti">←</i> Back</button>
+        <button class="btn btn-primary" id="btn-to-quality" disabled>Check data quality <i class="ti">→</i></button>
+      </div>
+    </section>
+
+    <!-- SCREEN 3: DATA QUALITY -->
+    <section class="screen" id="screen-3">
+      <div class="eyebrow">Stage 3 of 5</div>
+      <h1 class="screen-title">Data quality</h1>
+      <p class="screen-desc" id="quality-desc">Scanning ingested variables for missing values, outliers, type mismatches, and inconsistent categories…</p>
+
+      <div id="quality-issue-list" class="quality-issue-list"></div>
+
+      <div class="nav-row">
+        <button class="btn" id="btn-back-2"><i class="ti">←</i> Back</button>
+        <button class="btn btn-primary" id="btn-apply-quality">Apply selected fixes &amp; continue <i class="ti">→</i></button>
+      </div>
+    </section>
+
+    <!-- SCREEN 4: DERIVATION -->
+    <section class="screen" id="screen-4">
+      <div class="eyebrow">Stage 4 of 5</div>
+      <h1 class="screen-title">Derive analysis datasets</h1>
+      <div class="context-badge-row">
+        <span class="context-badge" id="context-badge">detecting…</span>
+      </div>
+      <p class="screen-desc" id="derive-desc">Detecting data type and selecting derivation pipeline…</p>
+
+      <div class="run-track" id="run-track">
+        <!-- steps injected by app.js after /api/derive/plan -->
+      </div>
+
+      <div class="nav-row">
+        <button class="btn" id="btn-back-3"><i class="ti">←</i> Back</button>
+        <button class="btn btn-primary" id="btn-to-notebook" disabled>Open notebook <i class="ti">→</i></button>
+      </div>
+    </section>
+
+    <!-- SCREEN 5: NOTEBOOK -->
+    <section class="screen" id="screen-5">
+      <div class="eyebrow">Stage 5 of 5</div>
+      <div class="notebook-header-row">
+        <h1 class="screen-title">Notebook</h1>
+        <button class="btn btn-export" id="export-btn">Export dataset ↓</button>
+      </div>
+      <p class="screen-desc" id="notebook-desc">
+        Available variables: <code id="var-list">loading…</code> — real pandas DataFrames. Write code, run the cell, get real output. State persists between cells.
+      </p>
+
+      <div class="generative-row">
+        <input type="text" id="generative-input" class="generative-input" placeholder="Describe the analysis — e.g. 'plot IC50 by cell line' or 'show KM curve by arm'">
+        <button class="btn btn-generate" id="generative-submit-btn">Analyse →</button>
+      </div>
+      <div class="generative-hint" id="generative-hint">Describe the analysis you want. Code is written and run automatically against your data — column names and structure only, never raw values.</div>
+
+      <div class="notebook" id="notebook">
+        <!-- cells appended here -->
+      </div>
+
+      <div class="new-cell-row">
+        <button class="btn btn-add-cell" id="add-cell-btn">+ New cell</button>
+        <div class="cell-templates" id="cell-templates">
+          <span class="template-label">templates:</span>
+          <!-- chips are injected by app.js based on detected data context -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

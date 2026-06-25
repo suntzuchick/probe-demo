@@ -1,0 +1,818 @@
+USUBJID,STUDYID,DOMAIN,AESTDTC,AEENDTC,AETERM,AEDECOD,AEBODSYS,AETOXGR,AESER
+RVMD-001-0001,RASOLUTE302-SIM,AE,2023-07-08,2023-07-20,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0001,RASOLUTE302-SIM,AE,2023-06-25,2023-07-04,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0001,RASOLUTE302-SIM,AE,2023-08-17,2023-09-06,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0001,RASOLUTE302-SIM,AE,2023-10-09,2023-10-26,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0001,RASOLUTE302-SIM,AE,2023-06-19,2023-07-09,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0001,RASOLUTE302-SIM,AE,2023-07-28,2023-08-06,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0002,RASOLUTE302-SIM,AE,2023-10-29,2023-11-06,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0002,RASOLUTE302-SIM,AE,2024-03-14,2024-03-27,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0002,RASOLUTE302-SIM,AE,2024-02-08,2024-02-28,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0002,RASOLUTE302-SIM,AE,2024-04-02,2024-04-19,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0002,RASOLUTE302-SIM,AE,2023-11-28,2023-12-14,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0003,RASOLUTE302-SIM,AE,2023-09-12,2023-10-02,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0003,RASOLUTE302-SIM,AE,2023-06-29,2023-07-05,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0003,RASOLUTE302-SIM,AE,2023-08-19,2023-08-27,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0004,RASOLUTE302-SIM,AE,2023-07-30,2023-08-02,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0004,RASOLUTE302-SIM,AE,2023-09-07,2023-09-25,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0004,RASOLUTE302-SIM,AE,2023-05-13,2023-05-29,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0004,RASOLUTE302-SIM,AE,2023-04-23,2023-05-05,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0005,RASOLUTE302-SIM,AE,2024-03-02,2024-03-09,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0005,RASOLUTE302-SIM,AE,2023-10-01,2023-10-10,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0005,RASOLUTE302-SIM,AE,2023-12-23,2024-01-07,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0005,RASOLUTE302-SIM,AE,2024-01-30,2024-02-08,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0005,RASOLUTE302-SIM,AE,2024-03-28,2024-04-09,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0005,RASOLUTE302-SIM,AE,2023-12-24,2023-12-28,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0006,RASOLUTE302-SIM,AE,2023-03-19,2023-03-24,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0006,RASOLUTE302-SIM,AE,2023-09-03,2023-09-09,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0006,RASOLUTE302-SIM,AE,2023-07-06,2023-07-25,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0006,RASOLUTE302-SIM,AE,2023-04-29,2023-05-16,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0006,RASOLUTE302-SIM,AE,2023-04-20,2023-04-26,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0007,RASOLUTE302-SIM,AE,2023-02-10,2023-02-14,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0007,RASOLUTE302-SIM,AE,2023-02-13,2023-02-17,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,Y
+RVMD-001-0008,RASOLUTE302-SIM,AE,2023-10-27,2023-11-04,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0008,RASOLUTE302-SIM,AE,2023-07-31,2023-08-12,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0008,RASOLUTE302-SIM,AE,2023-09-23,2023-10-03,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0008,RASOLUTE302-SIM,AE,2023-09-22,2023-10-01,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0009,RASOLUTE302-SIM,AE,2023-10-05,2023-10-22,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0009,RASOLUTE302-SIM,AE,2023-07-22,2023-07-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0010,RASOLUTE302-SIM,AE,2023-07-17,2023-08-04,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0010,RASOLUTE302-SIM,AE,2023-11-28,2023-12-04,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0010,RASOLUTE302-SIM,AE,2023-11-16,2023-11-30,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0010,RASOLUTE302-SIM,AE,2023-07-24,2023-08-01,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0010,RASOLUTE302-SIM,AE,2023-08-28,2023-09-06,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0011,RASOLUTE302-SIM,AE,2023-11-15,2023-11-30,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0011,RASOLUTE302-SIM,AE,2024-01-23,2024-02-05,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0011,RASOLUTE302-SIM,AE,2024-01-10,2024-01-14,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0011,RASOLUTE302-SIM,AE,2023-12-01,2023-12-11,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0012,RASOLUTE302-SIM,AE,2024-03-12,2024-03-28,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0012,RASOLUTE302-SIM,AE,2023-11-15,2023-12-03,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0013,RASOLUTE302-SIM,AE,2023-10-05,2023-10-16,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0013,RASOLUTE302-SIM,AE,2023-07-31,2023-08-20,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0013,RASOLUTE302-SIM,AE,2023-04-26,2023-04-30,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0013,RASOLUTE302-SIM,AE,2023-07-14,2023-07-29,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0013,RASOLUTE302-SIM,AE,2023-07-14,2023-08-02,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0013,RASOLUTE302-SIM,AE,2023-07-10,2023-07-23,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0014,RASOLUTE302-SIM,AE,2023-10-29,2023-11-02,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0014,RASOLUTE302-SIM,AE,2023-10-01,2023-10-15,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0014,RASOLUTE302-SIM,AE,2023-12-12,2023-12-28,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0014,RASOLUTE302-SIM,AE,2024-02-23,2024-03-09,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0015,RASOLUTE302-SIM,AE,2023-07-28,2023-08-16,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0015,RASOLUTE302-SIM,AE,2023-08-09,2023-08-19,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0016,RASOLUTE302-SIM,AE,2023-03-28,2023-04-16,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0016,RASOLUTE302-SIM,AE,2023-05-17,2023-05-22,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0016,RASOLUTE302-SIM,AE,2023-04-19,2023-05-09,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0016,RASOLUTE302-SIM,AE,2023-03-23,2023-04-08,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0016,RASOLUTE302-SIM,AE,2023-04-17,2023-04-24,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0017,RASOLUTE302-SIM,AE,2024-02-04,2024-02-19,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0017,RASOLUTE302-SIM,AE,2023-12-18,2024-01-06,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0017,RASOLUTE302-SIM,AE,2024-01-13,2024-01-28,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0017,RASOLUTE302-SIM,AE,2023-11-13,2023-11-21,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0017,RASOLUTE302-SIM,AE,2023-12-26,2024-01-02,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0018,RASOLUTE302-SIM,AE,2023-03-15,2023-03-28,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0018,RASOLUTE302-SIM,AE,2023-06-07,2023-06-20,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0018,RASOLUTE302-SIM,AE,2023-05-20,2023-05-30,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0018,RASOLUTE302-SIM,AE,2023-07-26,2023-08-12,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0018,RASOLUTE302-SIM,AE,2023-05-22,2023-05-30,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0018,RASOLUTE302-SIM,AE,2023-03-24,2023-04-03,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0019,RASOLUTE302-SIM,AE,2023-06-29,2023-07-06,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0019,RASOLUTE302-SIM,AE,2023-11-16,2023-12-06,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0020,RASOLUTE302-SIM,AE,2024-02-15,2024-02-22,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0020,RASOLUTE302-SIM,AE,2023-09-03,2023-09-06,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0020,RASOLUTE302-SIM,AE,2024-02-21,2024-03-05,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0020,RASOLUTE302-SIM,AE,2023-08-26,2023-08-29,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,Y
+RVMD-001-0021,RASOLUTE302-SIM,AE,2023-04-23,2023-04-26,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0021,RASOLUTE302-SIM,AE,2023-05-03,2023-05-16,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0021,RASOLUTE302-SIM,AE,2023-06-04,2023-06-16,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0021,RASOLUTE302-SIM,AE,2023-05-08,2023-05-25,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0021,RASOLUTE302-SIM,AE,2023-04-26,2023-05-12,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0021,RASOLUTE302-SIM,AE,2023-07-26,2023-08-15,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0022,RASOLUTE302-SIM,AE,2023-04-19,2023-04-28,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0022,RASOLUTE302-SIM,AE,2023-08-18,2023-08-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0022,RASOLUTE302-SIM,AE,2023-06-02,2023-06-12,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0022,RASOLUTE302-SIM,AE,2023-08-05,2023-08-12,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0022,RASOLUTE302-SIM,AE,2023-08-02,2023-08-18,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0022,RASOLUTE302-SIM,AE,2023-09-07,2023-09-13,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0023,RASOLUTE302-SIM,AE,2023-11-10,2023-11-17,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0023,RASOLUTE302-SIM,AE,2023-08-20,2023-08-25,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0023,RASOLUTE302-SIM,AE,2023-06-07,2023-06-13,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0023,RASOLUTE302-SIM,AE,2023-11-02,2023-11-15,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0023,RASOLUTE302-SIM,AE,2023-08-16,2023-08-22,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0024,RASOLUTE302-SIM,AE,2024-02-09,2024-02-24,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0024,RASOLUTE302-SIM,AE,2023-10-20,2023-11-08,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0024,RASOLUTE302-SIM,AE,2023-12-29,2024-01-15,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0024,RASOLUTE302-SIM,AE,2023-09-24,2023-10-12,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0025,RASOLUTE302-SIM,AE,2023-06-08,2023-06-22,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0025,RASOLUTE302-SIM,AE,2023-06-24,2023-06-29,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0026,RASOLUTE302-SIM,AE,2023-10-21,2023-11-02,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0026,RASOLUTE302-SIM,AE,2024-01-12,2024-02-01,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0026,RASOLUTE302-SIM,AE,2023-12-04,2023-12-07,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0026,RASOLUTE302-SIM,AE,2024-01-21,2024-01-27,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0026,RASOLUTE302-SIM,AE,2023-08-24,2023-09-09,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0027,RASOLUTE302-SIM,AE,2023-09-19,2023-09-28,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0027,RASOLUTE302-SIM,AE,2023-06-29,2023-07-12,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0027,RASOLUTE302-SIM,AE,2023-06-05,2023-06-12,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0027,RASOLUTE302-SIM,AE,2023-09-26,2023-10-10,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0028,RASOLUTE302-SIM,AE,2023-07-21,2023-08-06,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0028,RASOLUTE302-SIM,AE,2023-04-18,2023-04-30,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0028,RASOLUTE302-SIM,AE,2023-02-26,2023-03-16,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0028,RASOLUTE302-SIM,AE,2023-06-04,2023-06-12,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0028,RASOLUTE302-SIM,AE,2023-02-28,2023-03-11,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0028,RASOLUTE302-SIM,AE,2023-06-30,2023-07-06,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0029,RASOLUTE302-SIM,AE,2023-09-19,2023-09-24,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0029,RASOLUTE302-SIM,AE,2023-08-24,2023-08-30,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0030,RASOLUTE302-SIM,AE,2023-12-08,2023-12-20,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0030,RASOLUTE302-SIM,AE,2023-10-17,2023-10-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0030,RASOLUTE302-SIM,AE,2024-01-06,2024-01-20,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0030,RASOLUTE302-SIM,AE,2023-11-05,2023-11-13,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0030,RASOLUTE302-SIM,AE,2024-01-21,2024-01-25,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0031,RASOLUTE302-SIM,AE,2023-11-29,2023-12-02,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0031,RASOLUTE302-SIM,AE,2023-12-06,2023-12-18,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0031,RASOLUTE302-SIM,AE,2023-10-17,2023-10-22,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0031,RASOLUTE302-SIM,AE,2023-10-24,2023-11-05,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0032,RASOLUTE302-SIM,AE,2023-03-03,2023-03-23,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0032,RASOLUTE302-SIM,AE,2023-04-17,2023-05-03,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0032,RASOLUTE302-SIM,AE,2023-04-24,2023-05-10,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0032,RASOLUTE302-SIM,AE,2023-06-06,2023-06-20,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0032,RASOLUTE302-SIM,AE,2023-09-10,2023-09-26,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0033,RASOLUTE302-SIM,AE,2023-06-16,2023-06-21,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0033,RASOLUTE302-SIM,AE,2023-05-07,2023-05-11,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0034,RASOLUTE302-SIM,AE,2023-05-09,2023-05-14,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0034,RASOLUTE302-SIM,AE,2023-05-16,2023-06-01,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0034,RASOLUTE302-SIM,AE,2023-11-18,2023-11-25,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0034,RASOLUTE302-SIM,AE,2023-05-24,2023-06-05,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0034,RASOLUTE302-SIM,AE,2023-05-07,2023-05-26,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0034,RASOLUTE302-SIM,AE,2023-08-13,2023-09-02,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0035,RASOLUTE302-SIM,AE,2023-11-17,2023-11-27,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0035,RASOLUTE302-SIM,AE,2023-09-12,2023-10-01,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0035,RASOLUTE302-SIM,AE,2023-07-14,2023-07-20,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0035,RASOLUTE302-SIM,AE,2023-06-05,2023-06-15,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0035,RASOLUTE302-SIM,AE,2023-09-19,2023-09-25,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0035,RASOLUTE302-SIM,AE,2023-10-12,2023-10-23,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0036,RASOLUTE302-SIM,AE,2023-09-19,2023-09-28,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0036,RASOLUTE302-SIM,AE,2023-08-19,2023-08-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0037,RASOLUTE302-SIM,AE,2023-03-31,2023-04-19,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0037,RASOLUTE302-SIM,AE,2023-05-30,2023-06-15,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0037,RASOLUTE302-SIM,AE,2023-07-13,2023-07-24,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0037,RASOLUTE302-SIM,AE,2023-04-16,2023-05-06,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0037,RASOLUTE302-SIM,AE,2023-08-05,2023-08-21,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0038,RASOLUTE302-SIM,AE,2023-09-26,2023-10-01,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0038,RASOLUTE302-SIM,AE,2023-08-19,2023-09-03,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0038,RASOLUTE302-SIM,AE,2023-12-12,2023-12-23,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0039,RASOLUTE302-SIM,AE,2023-09-14,2023-09-20,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0039,RASOLUTE302-SIM,AE,2023-08-12,2023-08-21,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0039,RASOLUTE302-SIM,AE,2023-04-26,2023-05-15,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0040,RASOLUTE302-SIM,AE,2023-07-25,2023-08-03,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,Y
+RVMD-001-0040,RASOLUTE302-SIM,AE,2024-01-16,2024-01-25,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0040,RASOLUTE302-SIM,AE,2023-10-03,2023-10-23,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0040,RASOLUTE302-SIM,AE,2023-09-24,2023-10-02,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0040,RASOLUTE302-SIM,AE,2023-08-05,2023-08-18,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0041,RASOLUTE302-SIM,AE,2023-12-21,2024-01-10,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0041,RASOLUTE302-SIM,AE,2024-02-24,2024-02-27,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0042,RASOLUTE302-SIM,AE,2023-11-27,2023-12-15,RASH,Rash,Skin and subcutaneous tissue disorders,Grade Six,N
+RVMD-001-0042,RASOLUTE302-SIM,AE,2023-09-29,2023-10-04,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0042,RASOLUTE302-SIM,AE,2023-11-24,2023-12-11,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0042,RASOLUTE302-SIM,AE,2023-09-04,2023-09-08,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0043,RASOLUTE302-SIM,AE,2023-06-15,2023-07-02,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0043,RASOLUTE302-SIM,AE,2023-05-18,2023-05-30,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0043,RASOLUTE302-SIM,AE,2023-03-29,2023-04-02,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0043,RASOLUTE302-SIM,AE,2023-04-11,2023-04-29,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0043,RASOLUTE302-SIM,AE,2023-05-30,2023-06-10,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0043,RASOLUTE302-SIM,AE,2023-03-12,2023-04-01,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0044,RASOLUTE302-SIM,AE,2024-04-02,2024-04-21,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0044,RASOLUTE302-SIM,AE,2024-01-06,2024-01-22,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0044,RASOLUTE302-SIM,AE,2023-10-24,2023-11-03,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0045,RASOLUTE302-SIM,AE,2023-05-08,2023-05-20,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0045,RASOLUTE302-SIM,AE,2023-04-22,2023-05-09,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0045,RASOLUTE302-SIM,AE,2023-03-08,2023-03-23,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0045,RASOLUTE302-SIM,AE,2023-04-24,2023-05-14,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0046,RASOLUTE302-SIM,AE,2024-03-22,2024-03-30,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0046,RASOLUTE302-SIM,AE,2023-12-13,2023-12-20,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0046,RASOLUTE302-SIM,AE,2024-04-13,2024-05-02,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0046,RASOLUTE302-SIM,AE,2023-12-21,2024-01-03,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0047,RASOLUTE302-SIM,AE,2023-07-04,2023-07-07,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0047,RASOLUTE302-SIM,AE,2023-05-04,2023-05-16,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0047,RASOLUTE302-SIM,AE,2023-03-15,2023-03-19,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0048,RASOLUTE302-SIM,AE,2023-06-24,2023-07-07,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0048,RASOLUTE302-SIM,AE,2023-10-20,2023-10-31,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0048,RASOLUTE302-SIM,AE,2023-09-01,2023-09-06,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0048,RASOLUTE302-SIM,AE,2023-06-20,2023-07-05,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0048,RASOLUTE302-SIM,AE,2023-10-30,2023-11-10,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0049,RASOLUTE302-SIM,AE,2023-03-09,2023-03-28,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0049,RASOLUTE302-SIM,AE,2023-06-30,2023-07-20,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0049,RASOLUTE302-SIM,AE,2023-04-23,2023-05-01,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0050,RASOLUTE302-SIM,AE,2023-05-25,2023-06-13,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0050,RASOLUTE302-SIM,AE,2023-03-27,2023-04-07,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0050,RASOLUTE302-SIM,AE,2023-06-06,2023-06-10,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0051,RASOLUTE302-SIM,AE,2023-11-29,2023-12-10,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0051,RASOLUTE302-SIM,AE,2023-12-28,2024-01-17,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0052,RASOLUTE302-SIM,AE,2023-09-24,2023-10-12,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0052,RASOLUTE302-SIM,AE,2023-10-28,2023-11-06,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0052,RASOLUTE302-SIM,AE,2023-09-15,2023-09-29,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0052,RASOLUTE302-SIM,AE,2023-09-02,2023-09-08,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0052,RASOLUTE302-SIM,AE,2023-09-17,2023-09-25,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0052,RASOLUTE302-SIM,AE,2023-09-30,2023-10-09,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0053,RASOLUTE302-SIM,AE,2023-05-02,2023-05-10,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0053,RASOLUTE302-SIM,AE,2023-04-09,2023-04-29,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0053,RASOLUTE302-SIM,AE,2023-05-30,2023-06-04,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0054,RASOLUTE302-SIM,AE,2023-10-05,2023-10-09,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0054,RASOLUTE302-SIM,AE,2024-01-21,2024-01-24,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0054,RASOLUTE302-SIM,AE,2024-02-19,2024-03-06,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0054,RASOLUTE302-SIM,AE,2024-01-11,2024-01-15,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0054,RASOLUTE302-SIM,AE,2024-03-15,2024-04-02,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0054,RASOLUTE302-SIM,AE,2024-02-04,2024-02-23,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0055,RASOLUTE302-SIM,AE,2023-08-25,2023-08-31,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0055,RASOLUTE302-SIM,AE,2023-09-24,2023-10-10,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0055,RASOLUTE302-SIM,AE,2023-07-12,2023-07-22,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0055,RASOLUTE302-SIM,AE,2023-05-13,2023-06-01,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0055,RASOLUTE302-SIM,AE,2023-08-24,2023-09-08,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0056,RASOLUTE302-SIM,AE,2023-09-10,2023-09-14,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0056,RASOLUTE302-SIM,AE,2023-06-04,2023-06-12,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0056,RASOLUTE302-SIM,AE,2023-10-21,2023-10-26,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0057,RASOLUTE302-SIM,AE,2023-08-01,2023-08-04,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0057,RASOLUTE302-SIM,AE,2023-04-01,2023-04-21,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0057,RASOLUTE302-SIM,AE,2023-10-14,2023-11-03,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0057,RASOLUTE302-SIM,AE,2023-08-29,2023-09-04,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0057,RASOLUTE302-SIM,AE,2023-05-18,2023-05-29,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0058,RASOLUTE302-SIM,AE,2023-12-10,2023-12-27,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0058,RASOLUTE302-SIM,AE,2023-08-12,2023-08-21,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0058,RASOLUTE302-SIM,AE,2023-06-30,2023-07-16,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0058,RASOLUTE302-SIM,AE,2023-06-24,2023-07-02,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0058,RASOLUTE302-SIM,AE,2023-06-29,2023-07-03,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0058,RASOLUTE302-SIM,AE,2023-11-06,2023-11-17,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0059,RASOLUTE302-SIM,AE,2023-05-02,2023-05-12,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0059,RASOLUTE302-SIM,AE,2023-05-15,2023-05-21,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0059,RASOLUTE302-SIM,AE,2023-04-19,2023-04-24,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0059,RASOLUTE302-SIM,AE,2023-06-02,2023-06-13,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0059,RASOLUTE302-SIM,AE,2023-07-04,2023-07-09,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0060,RASOLUTE302-SIM,AE,2023-06-25,2023-07-13,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0060,RASOLUTE302-SIM,AE,2023-09-04,2023-09-18,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0060,RASOLUTE302-SIM,AE,2023-07-18,2023-07-24,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0061,RASOLUTE302-SIM,AE,2023-08-29,2023-09-13,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0061,RASOLUTE302-SIM,AE,2023-03-25,2023-03-29,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0061,RASOLUTE302-SIM,AE,2023-03-15,2023-04-02,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0061,RASOLUTE302-SIM,AE,2023-06-27,2023-07-15,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0061,RASOLUTE302-SIM,AE,2023-04-26,2023-05-07,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0062,RASOLUTE302-SIM,AE,2023-07-25,2023-08-14,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0062,RASOLUTE302-SIM,AE,2023-02-28,2023-03-13,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0062,RASOLUTE302-SIM,AE,2023-08-06,2023-08-09,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0062,RASOLUTE302-SIM,AE,2023-05-05,2023-05-09,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0063,RASOLUTE302-SIM,AE,2023-06-14,2023-06-25,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0063,RASOLUTE302-SIM,AE,2023-06-27,2023-07-12,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0063,RASOLUTE302-SIM,AE,2023-09-22,2023-09-29,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0063,RASOLUTE302-SIM,AE,2023-07-04,2023-07-07,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0063,RASOLUTE302-SIM,AE,2023-06-04,2023-06-17,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0063,RASOLUTE302-SIM,AE,2023-05-19,2023-05-30,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0064,RASOLUTE302-SIM,AE,2023-09-19,2023-10-05,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0064,RASOLUTE302-SIM,AE,2024-02-04,2024-02-11,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0064,RASOLUTE302-SIM,AE,2023-09-27,2023-10-13,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0064,RASOLUTE302-SIM,AE,2023-08-06,2023-08-24,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0064,RASOLUTE302-SIM,AE,2023-09-29,2023-10-15,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0065,RASOLUTE302-SIM,AE,2023-09-08,2023-09-18,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0065,RASOLUTE302-SIM,AE,2023-12-14,2023-12-27,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0065,RASOLUTE302-SIM,AE,2024-01-19,2024-02-03,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0065,RASOLUTE302-SIM,AE,2023-11-16,2023-12-05,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0065,RASOLUTE302-SIM,AE,2024-01-22,2024-01-28,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0065,RASOLUTE302-SIM,AE,2023-11-27,2023-12-10,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0066,RASOLUTE302-SIM,AE,2023-07-17,2023-07-23,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0066,RASOLUTE302-SIM,AE,2023-10-25,2023-11-05,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0066,RASOLUTE302-SIM,AE,2023-05-17,2023-05-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0066,RASOLUTE302-SIM,AE,2023-11-06,2023-11-18,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0066,RASOLUTE302-SIM,AE,2023-05-09,2023-05-27,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0067,RASOLUTE302-SIM,AE,2023-05-04,2023-05-08,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0067,RASOLUTE302-SIM,AE,2023-08-28,2023-09-15,DIARRHEA,Diarrhoea,Gastrointestinal disorders,1,N
+RVMD-001-0067,RASOLUTE302-SIM,AE,2023-06-04,2023-06-20,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0067,RASOLUTE302-SIM,AE,2023-09-24,2023-10-13,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0067,RASOLUTE302-SIM,AE,2023-10-04,2023-10-17,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0067,RASOLUTE302-SIM,AE,2023-06-16,2023-07-05,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0068,RASOLUTE302-SIM,AE,2023-11-02,2023-11-22,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,Y
+RVMD-001-0068,RASOLUTE302-SIM,AE,2023-09-28,2023-10-13,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0068,RASOLUTE302-SIM,AE,2023-10-25,2023-11-05,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0068,RASOLUTE302-SIM,AE,2023-12-10,2023-12-14,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0068,RASOLUTE302-SIM,AE,2023-11-22,2023-12-02,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0069,RASOLUTE302-SIM,AE,2023-11-16,2023-12-06,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0069,RASOLUTE302-SIM,AE,2023-12-16,2023-12-20,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0069,RASOLUTE302-SIM,AE,2023-09-07,2023-09-25,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0069,RASOLUTE302-SIM,AE,2024-01-25,2024-02-12,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0069,RASOLUTE302-SIM,AE,2023-11-27,2023-12-05,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0069,RASOLUTE302-SIM,AE,2023-10-02,2023-10-15,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0070,RASOLUTE302-SIM,AE,2024-02-15,2024-02-24,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0070,RASOLUTE302-SIM,AE,2024-03-13,2024-03-26,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0071,RASOLUTE302-SIM,AE,2024-02-12,2024-02-21,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0071,RASOLUTE302-SIM,AE,2023-11-13,2023-11-22,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0071,RASOLUTE302-SIM,AE,2023-10-02,2023-10-19,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0072,RASOLUTE302-SIM,AE,2024-02-17,2024-03-07,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0072,RASOLUTE302-SIM,AE,2023-11-27,2023-12-17,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0073,RASOLUTE302-SIM,AE,2024-03-15,2024-03-24,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0073,RASOLUTE302-SIM,AE,2024-02-27,2024-03-15,RASH,Rash,Skin and subcutaneous tissue disorders,3,Y
+RVMD-001-0073,RASOLUTE302-SIM,AE,2024-03-28,2024-04-10,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0074,RASOLUTE302-SIM,AE,2023-11-10,2023-11-29,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0074,RASOLUTE302-SIM,AE,2023-09-17,2023-09-29,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0075,RASOLUTE302-SIM,AE,2023-11-07,2023-11-18,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0075,RASOLUTE302-SIM,AE,2023-10-17,2023-10-20,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0075,RASOLUTE302-SIM,AE,2023-11-05,2023-11-19,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0075,RASOLUTE302-SIM,AE,2023-05-13,2023-05-25,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0075,RASOLUTE302-SIM,AE,2023-09-06,2023-09-24,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0075,RASOLUTE302-SIM,AE,2023-09-14,2023-09-24,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0076,RASOLUTE302-SIM,AE,2023-08-04,2023-08-24,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0076,RASOLUTE302-SIM,AE,2023-06-25,2023-06-30,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0076,RASOLUTE302-SIM,AE,2023-08-07,2023-08-24,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0076,RASOLUTE302-SIM,AE,2023-09-17,2023-10-01,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0076,RASOLUTE302-SIM,AE,2023-10-15,2023-10-25,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0076,RASOLUTE302-SIM,AE,2023-10-25,2023-11-13,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0077,RASOLUTE302-SIM,AE,2023-07-22,2023-08-03,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0077,RASOLUTE302-SIM,AE,2023-07-19,2023-08-02,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0078,RASOLUTE302-SIM,AE,2024-01-13,2024-01-18,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0078,RASOLUTE302-SIM,AE,2023-10-15,2023-10-18,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0078,RASOLUTE302-SIM,AE,2023-11-20,2023-11-28,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0078,RASOLUTE302-SIM,AE,2023-11-22,2023-12-01,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0079,RASOLUTE302-SIM,AE,2023-09-27,2023-10-09,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0079,RASOLUTE302-SIM,AE,2023-09-17,2023-09-28,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0079,RASOLUTE302-SIM,AE,2023-12-06,2023-12-22,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0079,RASOLUTE302-SIM,AE,2023-10-03,2023-10-11,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0079,RASOLUTE302-SIM,AE,2023-08-04,2023-08-11,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0079,RASOLUTE302-SIM,AE,2023-09-19,2023-09-30,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0080,RASOLUTE302-SIM,AE,2023-11-10,2023-11-21,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0080,RASOLUTE302-SIM,AE,2024-01-15,2024-01-19,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0080,RASOLUTE302-SIM,AE,2024-01-01,2024-01-05,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0080,RASOLUTE302-SIM,AE,2023-11-07,2023-11-10,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0080,RASOLUTE302-SIM,AE,2023-12-12,2023-12-26,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0080,RASOLUTE302-SIM,AE,2023-11-26,2023-12-13,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0081,RASOLUTE302-SIM,AE,2023-08-16,2023-09-04,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0081,RASOLUTE302-SIM,AE,2023-03-26,2023-04-14,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0081,RASOLUTE302-SIM,AE,2023-03-04,2023-03-12,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0082,RASOLUTE302-SIM,AE,2023-07-13,2023-07-24,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0082,RASOLUTE302-SIM,AE,2023-08-23,2023-09-10,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0082,RASOLUTE302-SIM,AE,2023-10-08,2023-10-27,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0082,RASOLUTE302-SIM,AE,2023-06-28,2023-07-15,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0082,RASOLUTE302-SIM,AE,2023-10-27,2023-11-15,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0082,RASOLUTE302-SIM,AE,2023-06-21,2023-06-30,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0083,RASOLUTE302-SIM,AE,2023-06-26,2023-07-07,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0083,RASOLUTE302-SIM,AE,2023-08-11,2023-08-22,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0083,RASOLUTE302-SIM,AE,2023-06-14,2023-06-28,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0083,RASOLUTE302-SIM,AE,2023-04-30,2023-05-17,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0084,RASOLUTE302-SIM,AE,2023-10-08,2023-10-19,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0084,RASOLUTE302-SIM,AE,2023-10-21,2023-10-30,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0084,RASOLUTE302-SIM,AE,2024-01-01,2024-01-18,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0084,RASOLUTE302-SIM,AE,2024-03-09,2024-03-18,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0084,RASOLUTE302-SIM,AE,2024-03-10,2024-03-30,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0085,RASOLUTE302-SIM,AE,2023-06-03,2023-06-07,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0085,RASOLUTE302-SIM,AE,2023-08-07,2023-08-14,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0085,RASOLUTE302-SIM,AE,2023-04-12,2023-04-25,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0085,RASOLUTE302-SIM,AE,2023-07-13,2023-07-27,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0086,RASOLUTE302-SIM,AE,2023-04-02,2023-04-17,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0086,RASOLUTE302-SIM,AE,2023-08-05,2023-08-21,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0086,RASOLUTE302-SIM,AE,2023-06-16,2023-06-24,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0086,RASOLUTE302-SIM,AE,2023-08-05,2023-08-23,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0086,RASOLUTE302-SIM,AE,2023-07-17,2023-08-05,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0087,RASOLUTE302-SIM,AE,2023-09-11,2023-09-27,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0087,RASOLUTE302-SIM,AE,2023-09-23,2023-10-12,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0087,RASOLUTE302-SIM,AE,2023-08-05,2023-08-15,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0087,RASOLUTE302-SIM,AE,2023-07-16,2023-08-01,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0087,RASOLUTE302-SIM,AE,2023-08-26,2023-09-13,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0088,RASOLUTE302-SIM,AE,2024-02-29,2024-03-13,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0088,RASOLUTE302-SIM,AE,2024-01-29,2024-02-11,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0088,RASOLUTE302-SIM,AE,2023-12-05,2023-12-13,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0088,RASOLUTE302-SIM,AE,2023-12-25,2024-01-05,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0088,RASOLUTE302-SIM,AE,2023-11-22,2023-12-03,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0089,RASOLUTE302-SIM,AE,2024-02-06,2024-02-22,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0089,RASOLUTE302-SIM,AE,2023-11-27,2023-12-11,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0089,RASOLUTE302-SIM,AE,2024-01-14,2024-02-01,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0089,RASOLUTE302-SIM,AE,2024-01-14,2024-01-28,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0090,RASOLUTE302-SIM,AE,2023-03-13,2023-03-20,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0090,RASOLUTE302-SIM,AE,2023-05-20,2023-05-25,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0090,RASOLUTE302-SIM,AE,2023-04-26,2023-05-05,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0091,RASOLUTE302-SIM,AE,2023-10-05,2023-10-11,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0091,RASOLUTE302-SIM,AE,2023-09-20,2023-10-07,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0092,RASOLUTE302-SIM,AE,2023-06-19,2023-06-22,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0092,RASOLUTE302-SIM,AE,2023-07-28,2023-08-14,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0092,RASOLUTE302-SIM,AE,2023-07-24,2023-07-27,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0092,RASOLUTE302-SIM,AE,2023-06-14,2023-07-03,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0093,RASOLUTE302-SIM,AE,2023-10-25,2023-10-29,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0093,RASOLUTE302-SIM,AE,2023-06-13,2023-06-20,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0093,RASOLUTE302-SIM,AE,2023-05-12,2023-05-15,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0094,RASOLUTE302-SIM,AE,2023-12-13,2023-12-30,VOMITING,Vomiting,Gastrointestinal disorders,2,N
+RVMD-001-0094,RASOLUTE302-SIM,AE,2023-08-22,2023-09-06,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0094,RASOLUTE302-SIM,AE,2023-09-06,2023-09-12,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0094,RASOLUTE302-SIM,AE,2023-11-07,2023-11-25,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0094,RASOLUTE302-SIM,AE,2023-08-13,2023-08-18,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0094,RASOLUTE302-SIM,AE,2023-08-30,2023-09-11,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0095,RASOLUTE302-SIM,AE,2023-09-11,2023-09-17,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0095,RASOLUTE302-SIM,AE,2023-07-19,2023-07-26,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0095,RASOLUTE302-SIM,AE,2023-04-23,2023-05-06,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0095,RASOLUTE302-SIM,AE,2023-04-23,2023-05-01,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0095,RASOLUTE302-SIM,AE,2023-05-17,2023-06-02,DIARRHEA,Diarrhoea,Gastrointestinal disorders,3,N
+RVMD-001-0095,RASOLUTE302-SIM,AE,2023-09-07,2023-09-13,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0096,RASOLUTE302-SIM,AE,2023-08-11,2023-08-18,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,1,N
+RVMD-001-0096,RASOLUTE302-SIM,AE,2023-06-28,2023-07-10,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0096,RASOLUTE302-SIM,AE,2023-02-25,2023-03-01,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0097,RASOLUTE302-SIM,AE,2023-10-15,2023-10-28,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0097,RASOLUTE302-SIM,AE,2023-08-28,2023-09-11,RASH,Rash,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0097,RASOLUTE302-SIM,AE,2023-12-02,2023-12-16,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0097,RASOLUTE302-SIM,AE,2023-09-27,2023-10-05,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,1,N
+RVMD-001-0098,RASOLUTE302-SIM,AE,2023-05-05,2023-05-09,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0098,RASOLUTE302-SIM,AE,2023-02-17,2023-03-07,DECREASED APPETITE,Decreased appetite,Metabolism and nutrition disorders,2,N
+RVMD-001-0099,RASOLUTE302-SIM,AE,2023-05-23,2023-06-06,DIARRHEA,Diarrhoea,Gastrointestinal disorders,2,N
+RVMD-001-0099,RASOLUTE302-SIM,AE,2023-07-02,2023-07-14,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0099,RASOLUTE302-SIM,AE,2023-05-04,2023-05-16,RASH,Rash,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0099,RASOLUTE302-SIM,AE,2023-06-16,2023-06-21,VOMITING,Vomiting,Gastrointestinal disorders,1,N
+RVMD-001-0099,RASOLUTE302-SIM,AE,2023-04-03,2023-04-07,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0099,RASOLUTE302-SIM,AE,2023-04-26,2023-05-05,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0100,RASOLUTE302-SIM,AE,2023-04-28,2023-05-11,PERIPHERAL OEDEMA,Peripheral oedema,General disorders and administration site conditions,2,N
+RVMD-001-0100,RASOLUTE302-SIM,AE,2023-04-11,2023-04-20,RASH,Rash,Skin and subcutaneous tissue disorders,3,N
+RVMD-001-0100,RASOLUTE302-SIM,AE,2023-01-25,2023-02-05,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0101,RASOLUTE302-SIM,AE,2023-06-01,2023-06-16,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0101,RASOLUTE302-SIM,AE,2023-07-18,2023-07-27,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0101,RASOLUTE302-SIM,AE,2023-02-16,2023-02-27,FATIGUE,Fatigue,General disorders and administration site conditions,3,Y
+RVMD-001-0101,RASOLUTE302-SIM,AE,2023-06-13,2023-06-26,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0101,RASOLUTE302-SIM,AE,2023-04-11,2023-04-18,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0102,RASOLUTE302-SIM,AE,2023-11-05,2023-11-11,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0102,RASOLUTE302-SIM,AE,2023-08-07,2023-08-10,FATIGUE,Fatigue,General disorders and administration site conditions,3,Y
+RVMD-001-0102,RASOLUTE302-SIM,AE,2023-09-04,2023-09-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0102,RASOLUTE302-SIM,AE,2023-10-15,2023-10-28,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0102,RASOLUTE302-SIM,AE,2023-08-10,2023-08-14,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0103,RASOLUTE302-SIM,AE,2023-09-18,2023-09-29,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0103,RASOLUTE302-SIM,AE,2023-10-20,2023-11-06,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0103,RASOLUTE302-SIM,AE,2023-12-19,2024-01-04,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0103,RASOLUTE302-SIM,AE,2023-12-05,2023-12-17,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0103,RASOLUTE302-SIM,AE,2024-02-04,2024-02-19,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0103,RASOLUTE302-SIM,AE,2024-01-12,2024-02-01,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0104,RASOLUTE302-SIM,AE,2023-11-24,2023-12-04,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0104,RASOLUTE302-SIM,AE,2023-09-25,2023-10-11,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0104,RASOLUTE302-SIM,AE,2023-10-20,2023-11-02,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0104,RASOLUTE302-SIM,AE,2023-09-23,2023-10-06,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0104,RASOLUTE302-SIM,AE,2023-12-29,2024-01-07,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0105,RASOLUTE302-SIM,AE,2023-08-22,2023-09-02,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0105,RASOLUTE302-SIM,AE,2023-08-26,2023-09-05,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0105,RASOLUTE302-SIM,AE,2023-07-15,2023-07-18,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0105,RASOLUTE302-SIM,AE,2023-08-31,2023-09-10,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0105,RASOLUTE302-SIM,AE,2023-06-01,2023-06-07,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,Y
+RVMD-001-0106,RASOLUTE302-SIM,AE,2023-06-10,2023-06-23,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0106,RASOLUTE302-SIM,AE,2023-08-05,2023-08-12,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0106,RASOLUTE302-SIM,AE,2023-06-30,2023-07-14,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0107,RASOLUTE302-SIM,AE,2023-07-07,2023-07-15,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0107,RASOLUTE302-SIM,AE,2023-08-03,2023-08-06,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0107,RASOLUTE302-SIM,AE,2023-05-21,2023-05-27,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0107,RASOLUTE302-SIM,AE,2023-06-20,2023-07-02,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0107,RASOLUTE302-SIM,AE,2023-06-23,2023-07-04,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0107,RASOLUTE302-SIM,AE,2023-06-23,2023-06-29,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0108,RASOLUTE302-SIM,AE,2024-01-29,2024-02-11,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0108,RASOLUTE302-SIM,AE,2023-11-23,2023-12-06,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0108,RASOLUTE302-SIM,AE,2023-08-04,2023-08-14,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0108,RASOLUTE302-SIM,AE,2024-01-06,2024-01-20,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0109,RASOLUTE302-SIM,AE,2023-09-09,2023-09-19,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0109,RASOLUTE302-SIM,AE,2023-11-14,2023-11-23,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0110,RASOLUTE302-SIM,AE,2023-12-11,2023-12-25,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0110,RASOLUTE302-SIM,AE,2024-02-10,2024-02-15,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0110,RASOLUTE302-SIM,AE,2024-01-02,2024-01-07,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0111,RASOLUTE302-SIM,AE,2023-06-10,2023-06-25,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0111,RASOLUTE302-SIM,AE,2023-10-31,2023-11-12,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0111,RASOLUTE302-SIM,AE,2023-05-10,2023-05-25,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0111,RASOLUTE302-SIM,AE,2023-04-27,2023-05-03,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0112,RASOLUTE302-SIM,AE,2023-06-20,2023-06-26,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0112,RASOLUTE302-SIM,AE,2023-06-18,2023-07-03,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0112,RASOLUTE302-SIM,AE,2023-08-01,2023-08-12,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0112,RASOLUTE302-SIM,AE,2023-04-30,2023-05-15,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0113,RASOLUTE302-SIM,AE,2023-07-04,2023-07-11,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0113,RASOLUTE302-SIM,AE,2023-07-01,2023-07-21,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0114,RASOLUTE302-SIM,AE,2023-03-16,2023-03-24,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0114,RASOLUTE302-SIM,AE,2023-07-28,2023-07-31,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0115,RASOLUTE302-SIM,AE,2023-03-13,2023-03-22,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0115,RASOLUTE302-SIM,AE,2023-03-05,2023-03-17,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0115,RASOLUTE302-SIM,AE,2023-06-17,2023-07-06,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0115,RASOLUTE302-SIM,AE,2023-07-10,2023-07-24,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0115,RASOLUTE302-SIM,AE,2023-08-02,2023-08-06,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0115,RASOLUTE302-SIM,AE,2023-05-30,2023-06-04,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0116,RASOLUTE302-SIM,AE,2024-03-21,2024-03-27,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0116,RASOLUTE302-SIM,AE,2023-12-08,2023-12-14,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0116,RASOLUTE302-SIM,AE,2023-10-26,2023-10-31,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0117,RASOLUTE302-SIM,AE,2023-08-13,2023-08-28,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0117,RASOLUTE302-SIM,AE,2023-05-18,2023-06-02,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0117,RASOLUTE302-SIM,AE,2023-08-05,2023-08-22,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0118,RASOLUTE302-SIM,AE,2024-01-27,2024-02-03,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0118,RASOLUTE302-SIM,AE,2023-09-13,2023-10-03,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0118,RASOLUTE302-SIM,AE,2024-03-04,2024-03-09,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0119,RASOLUTE302-SIM,AE,2023-09-23,2023-10-10,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0119,RASOLUTE302-SIM,AE,2023-07-17,2023-07-23,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0119,RASOLUTE302-SIM,AE,2024-01-01,2024-01-17,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0119,RASOLUTE302-SIM,AE,2023-10-22,2023-11-08,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0119,RASOLUTE302-SIM,AE,2023-10-17,2023-10-28,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0120,RASOLUTE302-SIM,AE,2023-10-23,2023-11-05,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0120,RASOLUTE302-SIM,AE,2023-06-30,2023-07-16,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0120,RASOLUTE302-SIM,AE,2023-08-05,2023-08-13,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0121,RASOLUTE302-SIM,AE,2023-07-06,2023-07-24,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0121,RASOLUTE302-SIM,AE,2023-10-12,2023-11-01,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0121,RASOLUTE302-SIM,AE,2023-05-30,2023-06-12,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0122,RASOLUTE302-SIM,AE,2023-12-23,2024-01-03,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0122,RASOLUTE302-SIM,AE,2023-10-29,2023-11-08,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0122,RASOLUTE302-SIM,AE,2023-11-13,2023-11-20,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0123,RASOLUTE302-SIM,AE,2023-03-13,2023-03-18,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0123,RASOLUTE302-SIM,AE,2023-02-21,2023-03-08,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0123,RASOLUTE302-SIM,AE,2023-01-27,2023-02-04,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0123,RASOLUTE302-SIM,AE,2023-07-24,2023-08-02,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0123,RASOLUTE302-SIM,AE,2023-07-29,2023-08-13,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0123,RASOLUTE302-SIM,AE,2023-04-25,2023-05-06,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0124,RASOLUTE302-SIM,AE,2023-06-13,2023-06-28,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0124,RASOLUTE302-SIM,AE,2023-07-13,2023-07-20,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0124,RASOLUTE302-SIM,AE,2023-02-25,2023-03-14,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0125,RASOLUTE302-SIM,AE,2023-10-21,2023-10-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0125,RASOLUTE302-SIM,AE,2023-06-29,2023-07-06,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0125,RASOLUTE302-SIM,AE,2023-06-03,2023-06-10,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0125,RASOLUTE302-SIM,AE,2023-10-29,2023-11-06,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0125,RASOLUTE302-SIM,AE,2023-05-21,2023-06-01,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0126,RASOLUTE302-SIM,AE,2023-10-08,2023-10-20,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0126,RASOLUTE302-SIM,AE,2023-05-18,2023-06-05,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0126,RASOLUTE302-SIM,AE,2023-07-05,2023-07-08,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0126,RASOLUTE302-SIM,AE,2023-05-16,2023-05-29,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0126,RASOLUTE302-SIM,AE,2023-06-12,2023-06-19,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0126,RASOLUTE302-SIM,AE,2023-06-17,2023-07-01,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0127,RASOLUTE302-SIM,AE,2023-07-17,2023-07-28,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0127,RASOLUTE302-SIM,AE,2023-11-02,2023-11-14,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0127,RASOLUTE302-SIM,AE,2023-12-06,2023-12-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0128,RASOLUTE302-SIM,AE,2023-12-09,2023-12-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0128,RASOLUTE302-SIM,AE,2023-09-10,2023-09-29,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0128,RASOLUTE302-SIM,AE,2023-09-21,2023-09-27,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0128,RASOLUTE302-SIM,AE,2024-02-14,2024-02-29,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0128,RASOLUTE302-SIM,AE,2023-10-04,2023-10-18,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0128,RASOLUTE302-SIM,AE,2023-12-20,2024-01-02,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0129,RASOLUTE302-SIM,AE,2023-08-22,2023-08-30,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0129,RASOLUTE302-SIM,AE,2023-08-17,2023-08-26,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0129,RASOLUTE302-SIM,AE,2023-06-28,2023-07-09,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0130,RASOLUTE302-SIM,AE,2023-05-25,2023-06-14,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0130,RASOLUTE302-SIM,AE,2023-08-09,2023-08-14,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0131,RASOLUTE302-SIM,AE,2023-05-16,2023-05-30,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0131,RASOLUTE302-SIM,AE,2023-09-13,2023-10-02,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0131,RASOLUTE302-SIM,AE,2023-10-17,2023-10-29,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0131,RASOLUTE302-SIM,AE,2023-09-05,2023-09-08,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0131,RASOLUTE302-SIM,AE,2023-09-11,2023-09-23,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0131,RASOLUTE302-SIM,AE,2023-08-12,2023-08-30,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,Y
+RVMD-001-0132,RASOLUTE302-SIM,AE,2023-10-08,2023-10-21,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0132,RASOLUTE302-SIM,AE,2023-11-09,2023-11-29,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0133,RASOLUTE302-SIM,AE,2023-07-11,2023-07-14,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0133,RASOLUTE302-SIM,AE,2023-03-19,2023-04-03,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0134,RASOLUTE302-SIM,AE,2023-05-31,2023-06-05,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0134,RASOLUTE302-SIM,AE,2023-07-29,2023-08-07,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0135,RASOLUTE302-SIM,AE,2023-08-12,2023-08-28,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0135,RASOLUTE302-SIM,AE,2023-07-04,2023-07-24,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0135,RASOLUTE302-SIM,AE,2023-07-09,2023-07-12,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0135,RASOLUTE302-SIM,AE,2023-06-23,2023-07-08,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0135,RASOLUTE302-SIM,AE,2023-07-18,2023-07-30,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0135,RASOLUTE302-SIM,AE,2023-11-17,2023-11-30,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0136,RASOLUTE302-SIM,AE,2024-02-14,2024-02-25,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0136,RASOLUTE302-SIM,AE,2023-10-09,2023-10-12,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0136,RASOLUTE302-SIM,AE,2023-10-14,2023-10-29,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0137,RASOLUTE302-SIM,AE,2024-01-07,2024-01-18,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0137,RASOLUTE302-SIM,AE,2023-09-01,2023-09-04,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0138,RASOLUTE302-SIM,AE,2023-06-22,2023-06-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0138,RASOLUTE302-SIM,AE,2023-07-02,2023-07-15,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0139,RASOLUTE302-SIM,AE,2023-05-28,2023-06-11,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0139,RASOLUTE302-SIM,AE,2023-08-03,2023-08-16,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0140,RASOLUTE302-SIM,AE,2023-08-16,2023-09-01,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0140,RASOLUTE302-SIM,AE,2023-10-31,2023-11-16,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0141,RASOLUTE302-SIM,AE,2023-11-13,2023-11-17,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0141,RASOLUTE302-SIM,AE,2023-07-10,2023-07-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0141,RASOLUTE302-SIM,AE,2023-11-11,2023-11-28,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0141,RASOLUTE302-SIM,AE,2023-05-31,2023-06-18,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0141,RASOLUTE302-SIM,AE,2023-08-31,2023-09-03,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0142,RASOLUTE302-SIM,AE,2023-04-07,2023-04-24,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0142,RASOLUTE302-SIM,AE,2023-09-22,2023-10-07,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,Y
+RVMD-001-0142,RASOLUTE302-SIM,AE,2023-07-17,2023-07-26,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0142,RASOLUTE302-SIM,AE,2023-04-13,2023-04-23,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0142,RASOLUTE302-SIM,AE,2023-04-02,2023-04-07,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0142,RASOLUTE302-SIM,AE,2023-05-22,2023-05-26,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0143,RASOLUTE302-SIM,AE,2023-09-17,2023-10-02,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0143,RASOLUTE302-SIM,AE,2023-11-16,2023-12-05,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0143,RASOLUTE302-SIM,AE,2023-10-29,2023-11-13,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0143,RASOLUTE302-SIM,AE,2023-12-12,2023-12-20,FATIGUE,Fatigue,General disorders and administration site conditions,3,Y
+RVMD-001-0144,RASOLUTE302-SIM,AE,2023-06-28,2023-07-08,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0144,RASOLUTE302-SIM,AE,2023-09-14,2023-09-25,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0144,RASOLUTE302-SIM,AE,2023-03-17,2023-03-24,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0144,RASOLUTE302-SIM,AE,2023-03-27,2023-03-31,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0144,RASOLUTE302-SIM,AE,2023-05-10,2023-05-17,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0144,RASOLUTE302-SIM,AE,2023-04-17,2023-04-20,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0145,RASOLUTE302-SIM,AE,2023-07-18,2023-07-21,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0145,RASOLUTE302-SIM,AE,2023-12-18,2023-12-27,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0146,RASOLUTE302-SIM,AE,2024-01-07,2024-01-16,FATIGUE,Fatigue,General disorders and administration site conditions,3,Y
+RVMD-001-0146,RASOLUTE302-SIM,AE,2024-02-11,2024-03-02,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0147,RASOLUTE302-SIM,AE,2024-02-23,2024-03-06,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0147,RASOLUTE302-SIM,AE,2023-11-10,2023-11-21,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0147,RASOLUTE302-SIM,AE,2024-01-20,2024-01-25,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0148,RASOLUTE302-SIM,AE,2023-02-17,2023-02-24,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0148,RASOLUTE302-SIM,AE,2023-03-01,2023-03-06,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0148,RASOLUTE302-SIM,AE,2023-07-27,2023-08-10,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0149,RASOLUTE302-SIM,AE,2023-09-02,2023-09-07,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0149,RASOLUTE302-SIM,AE,2023-11-16,2023-11-25,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0150,RASOLUTE302-SIM,AE,2023-07-09,2023-07-29,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0150,RASOLUTE302-SIM,AE,2023-07-30,2023-08-10,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0150,RASOLUTE302-SIM,AE,2023-02-14,2023-02-19,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0150,RASOLUTE302-SIM,AE,2023-05-14,2023-05-22,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0150,RASOLUTE302-SIM,AE,2023-08-26,2023-08-30,FATIGUE,Fatigue,General disorders and administration site conditions,3,Y
+RVMD-001-0151,RASOLUTE302-SIM,AE,2023-09-24,2023-10-13,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0151,RASOLUTE302-SIM,AE,2023-08-03,2023-08-20,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0151,RASOLUTE302-SIM,AE,2023-07-12,2023-07-20,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0151,RASOLUTE302-SIM,AE,2023-04-29,2023-05-05,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0151,RASOLUTE302-SIM,AE,2023-10-06,2023-10-10,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0152,RASOLUTE302-SIM,AE,2023-03-08,2023-03-28,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0152,RASOLUTE302-SIM,AE,2023-08-11,2023-08-26,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0153,RASOLUTE302-SIM,AE,2023-08-17,2023-09-05,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0153,RASOLUTE302-SIM,AE,2023-03-20,2023-04-07,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0154,RASOLUTE302-SIM,AE,2023-05-10,2023-05-16,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0154,RASOLUTE302-SIM,AE,2023-05-04,2023-05-16,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0154,RASOLUTE302-SIM,AE,2023-08-21,2023-09-07,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0154,RASOLUTE302-SIM,AE,2023-08-25,2023-09-06,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0154,RASOLUTE302-SIM,AE,2023-05-05,2023-05-21,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0154,RASOLUTE302-SIM,AE,2023-05-12,2023-05-17,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,Y
+RVMD-001-0155,RASOLUTE302-SIM,AE,2023-04-20,2023-05-09,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0155,RASOLUTE302-SIM,AE,2023-05-16,2023-05-21,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0155,RASOLUTE302-SIM,AE,2023-02-08,2023-02-11,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0155,RASOLUTE302-SIM,AE,2023-03-12,2023-03-23,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0155,RASOLUTE302-SIM,AE,2023-04-12,2023-04-25,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0156,RASOLUTE302-SIM,AE,2023-09-25,2023-10-04,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0156,RASOLUTE302-SIM,AE,2023-12-15,2024-01-02,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0156,RASOLUTE302-SIM,AE,2023-09-14,2023-09-22,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0156,RASOLUTE302-SIM,AE,2023-10-25,2023-11-07,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0157,RASOLUTE302-SIM,AE,2023-02-05,2023-02-10,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0157,RASOLUTE302-SIM,AE,2023-04-28,2023-05-12,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0157,RASOLUTE302-SIM,AE,2023-05-18,2023-05-29,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0157,RASOLUTE302-SIM,AE,2023-08-11,2023-08-14,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0157,RASOLUTE302-SIM,AE,2023-03-02,2023-03-20,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0158,RASOLUTE302-SIM,AE,2023-08-27,2023-09-15,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0158,RASOLUTE302-SIM,AE,2023-06-07,2023-06-14,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0158,RASOLUTE302-SIM,AE,2023-06-06,2023-06-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0158,RASOLUTE302-SIM,AE,2023-09-16,2023-09-19,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0159,RASOLUTE302-SIM,AE,2024-01-12,2024-01-22,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0159,RASOLUTE302-SIM,AE,2023-11-06,2023-11-25,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0159,RASOLUTE302-SIM,AE,2024-01-20,2024-02-06,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0159,RASOLUTE302-SIM,AE,2023-10-20,2023-11-01,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0159,RASOLUTE302-SIM,AE,2023-11-07,2023-11-23,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0159,RASOLUTE302-SIM,AE,2024-01-02,2024-01-16,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0160,RASOLUTE302-SIM,AE,2024-03-14,2024-03-29,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0160,RASOLUTE302-SIM,AE,2023-10-22,2023-11-09,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0160,RASOLUTE302-SIM,AE,2024-03-29,2024-04-09,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0160,RASOLUTE302-SIM,AE,2023-12-03,2023-12-17,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0160,RASOLUTE302-SIM,AE,2023-12-29,2024-01-07,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0160,RASOLUTE302-SIM,AE,2023-12-19,2023-12-31,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0161,RASOLUTE302-SIM,AE,2023-12-24,2024-01-12,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0161,RASOLUTE302-SIM,AE,2023-12-03,2023-12-10,FATIGUE,Fatigue,General disorders and administration site conditions,3,Y
+RVMD-001-0161,RASOLUTE302-SIM,AE,2023-12-25,2024-01-14,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0161,RASOLUTE302-SIM,AE,2023-12-02,2023-12-10,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0161,RASOLUTE302-SIM,AE,2023-09-06,2023-09-19,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0162,RASOLUTE302-SIM,AE,2023-03-14,2023-04-01,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0162,RASOLUTE302-SIM,AE,2023-04-29,2023-05-02,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0162,RASOLUTE302-SIM,AE,2023-07-11,2023-07-27,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0162,RASOLUTE302-SIM,AE,2023-08-04,2023-08-07,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0163,RASOLUTE302-SIM,AE,2023-12-02,2023-12-21,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0163,RASOLUTE302-SIM,AE,2024-04-01,2024-04-04,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0163,RASOLUTE302-SIM,AE,2023-10-20,2023-11-06,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0163,RASOLUTE302-SIM,AE,2024-01-02,2024-01-13,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0163,RASOLUTE302-SIM,AE,2023-12-13,2023-12-16,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0164,RASOLUTE302-SIM,AE,2024-01-20,2024-02-06,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0164,RASOLUTE302-SIM,AE,2023-12-16,2023-12-28,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0164,RASOLUTE302-SIM,AE,2023-10-01,2023-10-10,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0164,RASOLUTE302-SIM,AE,2023-11-26,2023-12-06,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0164,RASOLUTE302-SIM,AE,2023-12-23,2024-01-02,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0165,RASOLUTE302-SIM,AE,2023-06-17,2023-07-02,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0165,RASOLUTE302-SIM,AE,2023-07-28,2023-08-03,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0165,RASOLUTE302-SIM,AE,2023-04-30,2023-05-16,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0165,RASOLUTE302-SIM,AE,2023-06-08,2023-06-16,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0165,RASOLUTE302-SIM,AE,2023-09-07,2023-09-25,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0165,RASOLUTE302-SIM,AE,2023-06-30,2023-07-09,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0166,RASOLUTE302-SIM,AE,2023-10-09,2023-10-25,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0166,RASOLUTE302-SIM,AE,2023-07-31,2023-08-10,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0167,RASOLUTE302-SIM,AE,2024-02-13,2024-02-24,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0167,RASOLUTE302-SIM,AE,2024-02-27,2024-03-12,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0167,RASOLUTE302-SIM,AE,2023-12-20,2023-12-28,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0167,RASOLUTE302-SIM,AE,2024-02-06,2024-02-11,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0167,RASOLUTE302-SIM,AE,2023-11-06,2023-11-26,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0167,RASOLUTE302-SIM,AE,2024-03-19,2024-04-07,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0168,RASOLUTE302-SIM,AE,2023-08-28,2023-09-15,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0168,RASOLUTE302-SIM,AE,2023-05-20,2023-06-02,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0168,RASOLUTE302-SIM,AE,2023-11-12,2023-11-22,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0168,RASOLUTE302-SIM,AE,2023-05-20,2023-06-08,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0168,RASOLUTE302-SIM,AE,2023-07-13,2023-07-31,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0169,RASOLUTE302-SIM,AE,2023-08-13,2023-08-26,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0169,RASOLUTE302-SIM,AE,2023-07-27,2023-08-09,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0169,RASOLUTE302-SIM,AE,2023-04-07,2023-04-14,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0169,RASOLUTE302-SIM,AE,2023-05-14,2023-06-01,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0169,RASOLUTE302-SIM,AE,2023-06-24,2023-07-06,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0169,RASOLUTE302-SIM,AE,2023-04-04,2023-04-12,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0170,RASOLUTE302-SIM,AE,2024-03-05,2024-03-19,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0170,RASOLUTE302-SIM,AE,2023-11-11,2023-11-20,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0170,RASOLUTE302-SIM,AE,2023-12-28,2024-01-05,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0170,RASOLUTE302-SIM,AE,2023-09-23,2023-10-10,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0171,RASOLUTE302-SIM,AE,2024-04-02,2024-04-20,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0171,RASOLUTE302-SIM,AE,2023-12-03,2023-12-23,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0171,RASOLUTE302-SIM,AE,2024-03-15,2024-04-01,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0171,RASOLUTE302-SIM,AE,2023-10-09,2023-10-20,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0171,RASOLUTE302-SIM,AE,2024-03-20,2024-03-27,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0171,RASOLUTE302-SIM,AE,2023-11-10,2023-11-26,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0172,RASOLUTE302-SIM,AE,2023-11-25,2023-12-11,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0172,RASOLUTE302-SIM,AE,2023-11-04,2023-11-08,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0172,RASOLUTE302-SIM,AE,2024-03-10,2024-03-24,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0172,RASOLUTE302-SIM,AE,2023-12-23,2024-01-11,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0172,RASOLUTE302-SIM,AE,2024-03-12,2024-04-01,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0172,RASOLUTE302-SIM,AE,2023-10-27,2023-11-07,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0173,RASOLUTE302-SIM,AE,2023-10-13,2023-10-20,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0173,RASOLUTE302-SIM,AE,2023-12-29,2024-01-18,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0173,RASOLUTE302-SIM,AE,2024-03-17,2024-04-02,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0173,RASOLUTE302-SIM,AE,2023-11-26,2023-12-16,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0173,RASOLUTE302-SIM,AE,2023-12-22,2024-01-06,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0174,RASOLUTE302-SIM,AE,2023-12-03,2023-12-22,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0174,RASOLUTE302-SIM,AE,2023-09-07,2023-09-19,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0174,RASOLUTE302-SIM,AE,2024-01-06,2024-01-12,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0175,RASOLUTE302-SIM,AE,2023-09-13,2023-09-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0175,RASOLUTE302-SIM,AE,2023-11-12,2023-11-25,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0175,RASOLUTE302-SIM,AE,2023-09-29,2023-10-09,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0176,RASOLUTE302-SIM,AE,2023-06-15,2023-06-29,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0176,RASOLUTE302-SIM,AE,2023-05-01,2023-05-17,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0176,RASOLUTE302-SIM,AE,2023-04-05,2023-04-23,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0177,RASOLUTE302-SIM,AE,2023-11-05,2023-11-10,FATIGUE,Fatigue,General disorders and administration site conditions,3,Y
+RVMD-001-0177,RASOLUTE302-SIM,AE,2023-11-27,2023-12-17,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0177,RASOLUTE302-SIM,AE,2023-10-28,2023-11-13,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0177,RASOLUTE302-SIM,AE,2023-10-03,2023-10-16,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0178,RASOLUTE302-SIM,AE,2023-08-26,2023-09-07,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0178,RASOLUTE302-SIM,AE,2023-07-25,2023-08-01,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0178,RASOLUTE302-SIM,AE,2023-03-25,2023-03-30,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,Y
+RVMD-001-0179,RASOLUTE302-SIM,AE,2023-10-17,2023-10-25,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0179,RASOLUTE302-SIM,AE,2023-07-19,2023-07-31,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0179,RASOLUTE302-SIM,AE,2023-11-08,2023-11-12,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0179,RASOLUTE302-SIM,AE,2023-06-19,2023-07-08,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0179,RASOLUTE302-SIM,AE,2023-09-30,2023-10-18,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0179,RASOLUTE302-SIM,AE,2023-05-30,2023-06-05,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0180,RASOLUTE302-SIM,AE,2023-09-28,2023-10-05,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0180,RASOLUTE302-SIM,AE,2023-10-04,2023-10-13,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0180,RASOLUTE302-SIM,AE,2023-09-17,2023-09-22,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0181,RASOLUTE302-SIM,AE,2024-03-04,2024-03-21,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0181,RASOLUTE302-SIM,AE,2023-12-12,2023-12-20,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0181,RASOLUTE302-SIM,AE,2023-11-23,2023-12-11,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0181,RASOLUTE302-SIM,AE,2023-10-11,2023-10-27,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0181,RASOLUTE302-SIM,AE,2023-11-02,2023-11-22,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0181,RASOLUTE302-SIM,AE,2024-02-20,2024-03-02,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0182,RASOLUTE302-SIM,AE,2023-06-11,2023-06-20,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0182,RASOLUTE302-SIM,AE,2023-08-01,2023-08-15,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0183,RASOLUTE302-SIM,AE,2023-04-10,2023-04-27,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0183,RASOLUTE302-SIM,AE,2023-10-06,2023-10-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0183,RASOLUTE302-SIM,AE,2023-05-21,2023-06-03,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0184,RASOLUTE302-SIM,AE,2024-01-01,2024-01-19,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0184,RASOLUTE302-SIM,AE,2023-09-23,2023-10-03,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0185,RASOLUTE302-SIM,AE,2023-03-11,2023-03-26,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0185,RASOLUTE302-SIM,AE,2023-04-20,2023-05-08,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0185,RASOLUTE302-SIM,AE,2023-02-28,2023-03-16,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0185,RASOLUTE302-SIM,AE,2023-06-22,2023-07-10,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0186,RASOLUTE302-SIM,AE,2023-10-04,2023-10-16,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0186,RASOLUTE302-SIM,AE,2023-11-30,2023-12-05,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0186,RASOLUTE302-SIM,AE,2023-11-04,2023-11-21,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0186,RASOLUTE302-SIM,AE,2023-11-20,2023-12-08,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0186,RASOLUTE302-SIM,AE,2023-10-04,2023-10-19,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0186,RASOLUTE302-SIM,AE,2023-12-17,2023-12-23,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0187,RASOLUTE302-SIM,AE,2024-02-05,2024-02-22,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0187,RASOLUTE302-SIM,AE,2023-10-25,2023-11-08,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,Y
+RVMD-001-0187,RASOLUTE302-SIM,AE,2023-08-04,2023-08-22,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0187,RASOLUTE302-SIM,AE,2023-11-08,2023-11-11,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0187,RASOLUTE302-SIM,AE,2023-08-21,2023-09-05,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0187,RASOLUTE302-SIM,AE,2023-09-17,2023-10-05,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0188,RASOLUTE302-SIM,AE,2023-10-23,2023-11-03,ANAEMIA,Anaemia,Blood and lymphatic system disorders,3,N
+RVMD-001-0188,RASOLUTE302-SIM,AE,2023-08-11,2023-08-19,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0188,RASOLUTE302-SIM,AE,2023-06-22,2023-07-11,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0188,RASOLUTE302-SIM,AE,2023-07-22,2023-07-27,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,1,N
+RVMD-001-0188,RASOLUTE302-SIM,AE,2023-09-22,2023-09-30,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,Y
+RVMD-001-0188,RASOLUTE302-SIM,AE,2023-08-08,2023-08-25,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0189,RASOLUTE302-SIM,AE,2023-06-16,2023-06-25,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0189,RASOLUTE302-SIM,AE,2023-09-11,2023-09-19,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0190,RASOLUTE302-SIM,AE,2023-10-30,2023-11-10,FATIGUE,Fatigue,General disorders and administration site conditions,3,N
+RVMD-001-0190,RASOLUTE302-SIM,AE,2023-09-05,2023-09-22,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0190,RASOLUTE302-SIM,AE,2023-09-10,2023-09-30,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,Y
+RVMD-001-0190,RASOLUTE302-SIM,AE,2024-02-03,2024-02-11,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0190,RASOLUTE302-SIM,AE,2023-11-12,2023-11-19,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0191,RASOLUTE302-SIM,AE,2023-05-27,2023-06-15,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0191,RASOLUTE302-SIM,AE,2023-09-02,2023-09-17,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0191,RASOLUTE302-SIM,AE,2023-06-15,2023-06-30,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,1,N
+RVMD-001-0192,RASOLUTE302-SIM,AE,2023-08-21,2023-09-04,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0192,RASOLUTE302-SIM,AE,2023-12-05,2023-12-16,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0192,RASOLUTE302-SIM,AE,2023-12-04,2023-12-14,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0193,RASOLUTE302-SIM,AE,2023-07-06,2023-07-10,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0193,RASOLUTE302-SIM,AE,2023-09-03,2023-09-09,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0194,RASOLUTE302-SIM,AE,2023-06-04,2023-06-18,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0194,RASOLUTE302-SIM,AE,2023-03-21,2023-04-07,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0194,RASOLUTE302-SIM,AE,2023-05-22,2023-06-09,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,2,N
+RVMD-001-0195,RASOLUTE302-SIM,AE,2023-10-25,2023-11-04,FATIGUE,Fatigue,General disorders and administration site conditions,1,N
+RVMD-001-0195,RASOLUTE302-SIM,AE,2023-08-20,2023-09-09,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0196,RASOLUTE302-SIM,AE,2023-04-20,2023-05-04,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,4,Y
+RVMD-001-0196,RASOLUTE302-SIM,AE,2023-05-14,2023-05-27,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0196,RASOLUTE302-SIM,AE,2023-05-16,2023-06-01,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0196,RASOLUTE302-SIM,AE,2023-05-15,2023-05-23,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0197,RASOLUTE302-SIM,AE,2024-01-29,2024-02-09,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0197,RASOLUTE302-SIM,AE,2023-12-20,2024-01-02,NAUSEA,Nausea,Gastrointestinal disorders,2,N
+RVMD-001-0197,RASOLUTE302-SIM,AE,2023-11-24,2023-12-02,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
+RVMD-001-0198,RASOLUTE302-SIM,AE,2023-07-05,2023-07-21,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0198,RASOLUTE302-SIM,AE,2023-09-07,2023-09-22,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0199,RASOLUTE302-SIM,AE,2023-09-14,2023-09-28,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,2,N
+RVMD-001-0199,RASOLUTE302-SIM,AE,2023-08-02,2023-08-09,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,3,N
+RVMD-001-0199,RASOLUTE302-SIM,AE,2023-07-15,2023-07-27,FATIGUE,Fatigue,General disorders and administration site conditions,2,N
+RVMD-001-0199,RASOLUTE302-SIM,AE,2023-10-25,2023-11-03,ANAEMIA,Anaemia,Blood and lymphatic system disorders,1,N
+RVMD-001-0200,RASOLUTE302-SIM,AE,2023-06-08,2023-06-11,ANAEMIA,Anaemia,Blood and lymphatic system disorders,2,N
+RVMD-001-0200,RASOLUTE302-SIM,AE,2023-10-31,2023-11-03,THROMBOCYTOPENIA,Thrombocytopenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0200,RASOLUTE302-SIM,AE,2023-10-04,2023-10-07,PERIPHERAL NEUROPATHY,Peripheral sensory neuropathy,Nervous system disorders,3,N
+RVMD-001-0200,RASOLUTE302-SIM,AE,2023-09-10,2023-09-18,NAUSEA,Nausea,Gastrointestinal disorders,1,N
+RVMD-001-0200,RASOLUTE302-SIM,AE,2023-09-12,2023-09-15,NEUTROPENIA,Neutropenia,Blood and lymphatic system disorders,2,N
+RVMD-001-0200,RASOLUTE302-SIM,AE,2023-06-24,2023-07-08,ALOPECIA,Alopecia,Skin and subcutaneous tissue disorders,1,N
